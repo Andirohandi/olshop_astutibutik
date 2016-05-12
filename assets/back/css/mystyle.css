@@ -1,0 +1,17 @@
+.modal.fade .modal-dialog {
+    /*width:auto;
+    margin:0 auto;
+    add what you want here*/
+	border: 10px solid rgba(0, 0, 0, .5);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+     border-radius: 10px;
+}
+.modal.fade .modal-content{
+	-webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+     border-radius: 0px;
+}
+.modal.fade .modal-header{
+	background-color:#B8B8B8;
+}
